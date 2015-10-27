@@ -1,2 +1,7 @@
 hello
 text
+
+next line
+
+added
+
